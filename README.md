@@ -31,8 +31,8 @@ Go é uma linguagem enxuta, moderna, compilada (muito rápida), que tem vários 
 ## ⚙️ Atividades
   
 - [x] Fundamentos da linguagem.
-- [ ] Estrutura de controles, operadores, funções, ponteiros, struct, interface, polimorfismo...
-- [ ] Boas práticas de programação.
+- [x] Estrutura de controles, operadores, funções, ponteiros, struct, interface, polimorfismo...
+- [x] Boas práticas de programação.
 - [ ] Banco de dados com Go.
 - [ ] Criar Webservice básico com Go.
 
