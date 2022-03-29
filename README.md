@@ -34,7 +34,7 @@ Go é uma linguagem enxuta, moderna, compilada (muito rápida), que tem vários 
 - [x] Estrutura de controles, operadores, funções, ponteiros, struct, interface, polimorfismo...
 - [x] Boas práticas de programação.
 - [x] Banco de dados com Go.
-- [ ] Criar Webservice básico com Go.
+- [x] Criar Webservice básico com Go.
 
 ## 🛠 Tecnologias
 
